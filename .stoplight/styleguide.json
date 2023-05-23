@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Zxgsmhvf",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY",
+      "name": "Modern Bronze Salad",
+      "slug": "seeded-modern-bronze-salad-9ftvx",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
